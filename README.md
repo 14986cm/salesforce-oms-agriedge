@@ -16,7 +16,7 @@ This project is a Salesforce-driven Order Management System (OMS) built for Agri
 - Reports: Order trends, Inventory Levels
 
 ## 🔗 Project Progress Videos
-[To be added]
+[https://github.com/14986cm/salesforce-oms-agriedge/tree/main/Project%20Progress%20Videos]
 
 ## 🔗 Demo Video
 [To be added]
