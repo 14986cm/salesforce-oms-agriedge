@@ -8,7 +8,7 @@ This project is a Salesforce-driven Order Management System (OMS) built for Agri
 - Intergrate basic customer service access
 - Provide data insights via reports and dashboards
 
-## 💻 Features to be Implemented
+## 💻 Features Implemented
 - Custom Objects: Product, Order, Customer, Inventory
 - Automation: Flows for order status updates and notification
 - Apex: Triggres and helper classes for inventory updates
@@ -19,7 +19,7 @@ This project is a Salesforce-driven Order Management System (OMS) built for Agri
 [https://github.com/14986cm/salesforce-oms-agriedge/tree/main/Project%20Progress%20Videos]
 
 ## 🔗 Demo Video
-[To be added]
+[https://youtu.be/b98Buc_8J1k]
 
 ---
 
